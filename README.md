@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thething1248
+-   I am interested in math and science, and also in coding
+- 🌱 I’m currently learning game development
